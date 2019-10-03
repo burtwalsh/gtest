@@ -20,7 +20,7 @@ import java.util.Collections;
    for various types of subclasses List<? extends Number>  or Collection<?> but this work gives the general idea.
 
 */
-class Stats
+public class Stats
 {
 	public static Float mean(List<Float> m) {
 
